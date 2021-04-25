@@ -1,0 +1,189 @@
+! 13/04/2021 15:04:53 https://thrillblender.com/following-the-lineage-celebrity-grandchildren/
+thrillblender.com##.herald-entry-content.entry-content > .herald-da
+
+! 13/04/2021 15:06:10 https://thrillblender.com/following-the-lineage-celebrity-grandchildren/
+thrillblender.com##.herald-sidebar-right.col-md-3.col-lg-3.herald-sidebar
+
+! 13/04/2021 15:06:37 https://thrillblender.com/following-the-lineage-celebrity-grandchildren/
+thrillblender.com##.row-eq-height.row.herald-related
+
+! 13/04/2021 15:07:03 https://thrillblender.com/following-the-lineage-celebrity-grandchildren/
+thrillblender.com##.col-sm-12.col-md-12.col-lg-12
+
+! 13/04/2021 15:09:15 https://www.trendmutti.com/2021/04/09/kind-auf-dem-schulweg/
+www.trendmutti.com###content-top
+
+! 13/04/2021 15:09:50 https://www.trendmutti.com/2021/04/09/kind-auf-dem-schulweg/
+www.trendmutti.com###content-right-box
+
+! 13/04/2021 15:10:14 https://www.trendmutti.com/2021/04/09/kind-auf-dem-schulweg/
+www.trendmutti.com###content-center-box
+
+! 13/04/2021 15:10:35 https://www.trendmutti.com/2021/04/09/kind-auf-dem-schulweg/
+www.trendmutti.com##.shariff-buttonstretch.shariff-widget-align-flex-start.shariff-align-flex-start.shariff
+
+! 13/04/2021 15:10:44 https://www.trendmutti.com/2021/04/09/kind-auf-dem-schulweg/
+www.trendmutti.com##.feedback
+
+! 13/04/2021 15:11:09 https://www.trendmutti.com/2021/04/09/kind-auf-dem-schulweg/
+www.trendmutti.com##.bullet-pink
+
+! 13/04/2021 15:11:17 https://www.trendmutti.com/2021/04/09/kind-auf-dem-schulweg/
+www.trendmutti.com##h2:nth-of-type(1)
+
+! 13/04/2021 15:11:27 https://www.trendmutti.com/2021/04/09/kind-auf-dem-schulweg/
+www.trendmutti.com##h2:nth-of-type(2)
+
+! 13/04/2021 15:11:35 https://www.trendmutti.com/2021/04/09/kind-auf-dem-schulweg/
+www.trendmutti.com##.comment_meta
+
+! 13/04/2021 15:11:53 https://www.trendmutti.com/2021/04/09/kind-auf-dem-schulweg/
+www.trendmutti.com##.commentlist
+
+! 13/04/2021 15:12:04 https://www.trendmutti.com/2021/04/09/kind-auf-dem-schulweg/
+www.trendmutti.com###respond
+
+! 13/04/2021 15:12:18 https://www.trendmutti.com/2021/04/09/kind-auf-dem-schulweg/
+www.trendmutti.com##.navigation
+
+! 13/04/2021 15:12:27 https://www.trendmutti.com/2021/04/09/kind-auf-dem-schulweg/
+www.trendmutti.com##.date
+
+! 13/04/2021 15:13:47 https://www.trendmutti.com/2021/04/13/nasenstein-ernten/
+www.trendmutti.com##.storytitle
+
+! 13/04/2021 16:28:52 https://uberhumor.com/g-most-anticipated-movies-of-2021-are-going-to-be-amazing
+uberhumor.com###postbottom
+
+! 13/04/2021 16:28:58 https://uberhumor.com/g-most-anticipated-movies-of-2021-are-going-to-be-amazing
+uberhumor.com##.btn.comments-toggle
+
+! 13/04/2021 16:30:04 https://izismile.com/2021/04/13/great_exit_video.html
+izismile.com##.fl.right_block
+
+! 13/04/2021 16:30:31 https://izismile.com/2021/04/13/great_exit_video.html
+izismile.com###like-id-157652 > li
+
+! 13/04/2021 16:30:47 https://izismile.com/2021/04/13/great_exit_video.html
+izismile.com###dle-content > .ff
+
+! 13/04/2021 16:31:08 https://izismile.com/2021/04/13/great_exit_video.html
+izismile.com###post-list > div:nth-of-type(4)
+
+! 13/04/2021 16:31:30 https://izismile.com/2021/04/13/great_exit_video.html
+izismile.com###IZ169427 > div
+
+! 13/04/2021 16:31:42 https://izismile.com/2021/04/13/great_exit_video.html
+izismile.com##.comments
+
+! 13/04/2021 16:31:56 https://izismile.com/2021/04/13/great_exit_video.html
+izismile.com###footer
+
+! 13/04/2021 16:32:29 https://izismile.com/2021/04/13/the_unbreakable_video.html
+izismile.com###like-id-157650
+
+! 13/04/2021 16:35:06 https://izismile.com/2021/04/13/shes_here_video.html
+izismile.com###like-id-157647 > li
+
+! 13/04/2021 16:38:06 https://acidcow.com/pics/132838-see-the-difference-14-pics.html
+acidcow.com###header > .right
+
+! 13/04/2021 16:38:18 https://acidcow.com/pics/132838-see-the-difference-14-pics.html
+acidcow.com###wrapper > .banner_padding > div
+
+! 13/04/2021 16:38:35 https://acidcow.com/pics/132838-see-the-difference-14-pics.html
+acidcow.com###left
+
+! 13/04/2021 16:38:47 https://acidcow.com/pics/132838-see-the-difference-14-pics.html
+acidcow.com##.infobox.reset
+
+! 13/04/2021 16:39:37 https://acidcow.com/pics/132838-see-the-difference-14-pics.html
+acidcow.com##a[href^="https://acidcow.com/engine/go.php"]
+
+! 13/04/2021 16:39:48 https://acidcow.com/pics/132838-see-the-difference-14-pics.html
+acidcow.com##.fullstory-media-adv
+
+! 13/04/2021 16:39:57 https://acidcow.com/pics/132838-see-the-difference-14-pics.html
+acidcow.com##.box
+
+! 13/04/2021 16:40:12 https://acidcow.com/pics/132838-see-the-difference-14-pics.html
+acidcow.com###dle-comments-form
+
+! 13/04/2021 16:40:18 https://acidcow.com/pics/132838-see-the-difference-14-pics.html
+acidcow.com###footer
+
+! 19/04/2021 09:01:20 https://www.trendmutti.com/
+www.trendmutti.com##.entry:nth-of-type(5)
+
+! 19/04/2021 09:02:21 https://www.trendmutti.com/
+www.trendmutti.com##a[href^="https://www.amazon.de/"]
+
+! 19/04/2021 09:29:44 https://thrillblender.com/we-have-our-differences-40-pics/
+thrillblender.com###ARD184737 > div
+
+! 24/04/2021 10:38:07 http://www.bildschirmarbeiter.com/
+www.bildschirmarbeiter.com##a[href^="http://www.amazon.de/gp/video/primesignup"]
+
+! 24/04/2021 10:38:27 http://www.bildschirmarbeiter.com/
+www.bildschirmarbeiter.com###col2
+
+! 24/04/2021 10:38:35 http://www.bildschirmarbeiter.com/
+www.bildschirmarbeiter.com###col3
+
+! 24/04/2021 10:38:48 http://www.bildschirmarbeiter.com/
+www.bildschirmarbeiter.com###topnav
+
+! 24/04/2021 10:39:05 http://www.bildschirmarbeiter.com/
+www.bildschirmarbeiter.com###balken_slim
+
+! 24/04/2021 10:39:31 http://www.bildschirmarbeiter.com/
+www.bildschirmarbeiter.com###footer
+
+! 24/04/2021 10:39:49 http://www.bildschirmarbeiter.com/
+||www.bildschirmarbeiter.com/themes/ba_themes/gimmicks.png$image
+
+! 24/04/2021 10:58:58 http://www.bildschirmarbeiter.com/video/das_war_knapp_240_auto_vs_fussgaenger/
+www.bildschirmarbeiter.com###commentlist
+
+! 24/04/2021 10:59:03 http://www.bildschirmarbeiter.com/video/das_war_knapp_240_auto_vs_fussgaenger/
+www.bildschirmarbeiter.com##.actions:nth-of-type(9)
+
+! 24/04/2021 10:59:20 http://www.bildschirmarbeiter.com/video/das_war_knapp_240_auto_vs_fussgaenger/
+www.bildschirmarbeiter.com##.actions:nth-of-type(8)
+
+! 24/04/2021 10:59:29 http://www.bildschirmarbeiter.com/video/das_war_knapp_240_auto_vs_fussgaenger/
+www.bildschirmarbeiter.com##.actions:nth-of-type(7)
+
+! 24/04/2021 10:59:39 http://www.bildschirmarbeiter.com/video/das_war_knapp_240_auto_vs_fussgaenger/
+www.bildschirmarbeiter.com##.description
+
+! 24/04/2021 11:00:03 http://www.bildschirmarbeiter.com/video/das_war_knapp_240_auto_vs_fussgaenger/
+www.bildschirmarbeiter.com##.clearfix.fb > div > div:nth-of-type(2)
+
+! 24/04/2021 11:00:56 http://www.bildschirmarbeiter.com/video/das_war_knapp_240_auto_vs_fussgaenger/
+www.bildschirmarbeiter.com##iframe[src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.bildschirmarbeiter.com%2Fvideo%2Fdas_war_knapp_240_auto_vs_fussgaenger%2F&layout=button_count&show_faces=true&width=125&action=like&font=arial&colorscheme=light&height=21"]
+
+! 24/04/2021 11:01:14 http://www.bildschirmarbeiter.com/video/wildgans_vs_tiger/
+www.bildschirmarbeiter.com##a[href^="https://www.amazon.de/amazonchannels"]
+
+! 2021-04-25 https://www.skoften.net
+www.skoften.net##.uk-visible\@m.uk-text-left.right-col
+www.skoften.net##.uk-first-column.uk-visible\@m.uk-margin-left.uk-text-left.uk-width-1-6.left-col
+www.skoften.net##.subheader-container
+www.skoften.net##.uk-sticky-fixed.uk-sticky.header-container
+www.skoften.net##.uk-margin-top.footer-container
+www.skoften.net##.uk-padding-small.uk-grid-collapse.uk-grid.entry-meta-container
+www.skoften.net##.entry-footer-container
+
+! 2021-04-25 http://uberhumor.com
+uberhumor.com###top
+uberhumor.com###headerthumbs
+uberhumor.com###sidebar
+
+! 2021-04-25 https://uberhumor.com
+uberhumor.com##.homeposttopheader
+
+! 2021-04-25 https://www.skoften.net
+www.skoften.net##.loading-video-overlay
+www.skoften.net##.toggleLogin
+www.skoften.net##.description
